@@ -20,4 +20,4 @@ To help users understand complex medical reports without needing advanced medica
 Successfully built and tested a medical report analyzer that reads uploaded medical reports and generates easy-to-understand explanations.
 
 ## Project Interface
-![MedExplain AI Interface](images/MedExplain_AI_Interface.jpeg)
+![MedExplain AI Interface](MedExplain_AI_Interface.jpeg)
